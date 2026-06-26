@@ -68,25 +68,6 @@ I believe in clean, reproducible pipelines and explainable models. A well-unders
 
 ---
 
-
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Shinearushi525&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&icon_color=1D9E75&text_color=ffffff&ring_color=7F77DD" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinearushi525&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&text_color=ffffff" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shinearushi525&theme=tokyonight&hide_border=true&background=0D1117&ring=7F77DD&fire=D85A30&currStreakLabel=1D9E75)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 💡 Philosophy
 
 ```
@@ -150,7 +131,6 @@ Clean data > complex models.  Explainability > black-box accuracy.  Impact > ben
 </tr>
 </table>
 
----
 ---
 
 ## 🔗 Let's Connect
